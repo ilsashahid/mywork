@@ -1,0 +1,2 @@
+# mywork
+just practicing git 
