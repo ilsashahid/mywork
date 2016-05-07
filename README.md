@@ -1,2 +1,7 @@
 # mywork
-just practicing git 
+###just practicing git 
+
+##first Attempt:
+
+seems interesting :) 
+Thank you!
